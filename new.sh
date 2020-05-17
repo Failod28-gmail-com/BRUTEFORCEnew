@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 ##############################
 # AUTHOR : RISKI DARMAWAN    #
-# DIBUAT : 20 JANUARI 2019   #
+# DIBUAT : 20 JANUARI 2020   #
 # FUNGSI : BRUTE FORCE FB    #
 ##############################
 #============================#
@@ -29,7 +29,7 @@ figlet -f future "BRUTEFORCE NEW"
 echo $kuning"############################################"
 echo $kuning"|"$ijo"AUTHOR : RISKI DARMAWAN    |"
 echo $kuning"|---------------------------| [H] HELP"
-echo $kuning"|"$ijo"DIBUAT : 20 JAN 2019       |"
+echo $kuning"|"$ijo"DIBUAT : 20 JAN 2020       |"
 echo $kuning"|---------------------------|"
 echo $kuning"|"$ijo"NAME TOOLS : BRUTEFORCE NEW|"
 echo $kuning"############################################"$putih
@@ -92,8 +92,8 @@ echo
 echo "\033[36;1m"
 echo "[]=====================================================[]"
 echo "[] AUTHOR :  RISKI DARMAWAN                            []"
-echo "[] W A    :   085836465872                             []"
-echo "[] NO HP  : 085835295133                               []"
+echo "[] W A    :   966595451542                             []"
+echo "[] NO HP  : 96595451542                               []"
 echo "[] PESAN  : GUNAKAN TOOLS INI DENGAN BIJAK             []"
 echo "[]=====================================================[]"
 echo
